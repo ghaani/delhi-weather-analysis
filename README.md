@@ -1,6 +1,7 @@
 # Delhi Weather Analysis & ML Prediction Project
 
 A complete Python-based data analysis and machine learning project exploring historical weather data from Delhi. This project processes weather metrics, generates statistical insights, detects anomalies, builds predictive models, and exports an interactive HTML report with dashboard previews.
+> 💡 *Note: This is my first Python data analysis project, transitioning my enterprise BI & C# background into the Python data stack.*
 
 ## 🚀 Key Features
 - **Data Cleaning & Preprocessing:** Handles missing values, strips whitespace, and standardizes formats using `pandas`.
